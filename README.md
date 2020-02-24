@@ -1,1 +1,1 @@
-# bsv-ruby
+# bsv-ruby - Ruby Bitcoin SV library
